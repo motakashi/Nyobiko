@@ -1,2 +1,1 @@
-# Nyobiko
-Nyobiko
+# N予備校
